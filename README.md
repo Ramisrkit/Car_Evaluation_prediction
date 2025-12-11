@@ -185,13 +185,5 @@ model.predict([[2, 1, 4, 4, 1, 2]])
 
 Pull requests, suggestions, and improvements are welcome!
 
----
 
-If you want:
-🔹 `requirements.txt`
-🔹 A project **logo**
-🔹 A cleaner **PCA plot**
-🔹 A **model diagram**
-
-Just tell me!
 
